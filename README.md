@@ -15,5 +15,5 @@ The following libraries must be installed prior to running code:
 - matplotlib
 - pandas
 
-Example calcium traces to be used in this data set can be found in the data.csv file.
+Example calcium traces to be used in this data set can be found in the data.csv file (please download this to your working directory).
 
